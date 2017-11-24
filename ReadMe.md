@@ -1,8 +1,10 @@
 # Building a RESTful API in Node and Express
 
-Using Express and MongoDB to build an API
+Using Express and MongoDB to build an API.
 
-[Read the tutorial](http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4)
+## Coding Requirement
+
+[Coding Test](https://gist.github.com/jerelim/3e883999e8d8ef5af2428b364858afc3)
 
 ## Requirements
 
@@ -29,6 +31,4 @@ Using Express and MongoDB to build an API
  * chai / mocha
 
 
-# Coding Requirement
-[Coding Test](https://gist.github.com/jerelim/3e883999e8d8ef5af2428b364858afc3)
  
